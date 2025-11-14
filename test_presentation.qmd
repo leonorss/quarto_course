@@ -28,6 +28,7 @@ When you click the **Render** button a document will be generated that includes:
 
 - Content authored with markdown
 - Output from executable code
+- Try committing change in groups
 
 
 ## Code
