@@ -23,6 +23,13 @@ When you click the **Render** button a document will be generated that includes:
 -   Output from executable code
 
 
+## GitHub Pages
+
+Click on settings in repository online, go to pages on the left and change branch to main (or github-pg)
+
+In about click on settings and click on use github pages website for the description, unclick again and add the presentation.html filename to the end of this path.
+
+
 ## Code
 
 When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
