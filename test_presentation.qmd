@@ -15,19 +15,19 @@ One \# is a section header, two \#\# means sub-section headers, ie. header at th
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
 
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-
-
 ## GitHub Pages
 
 Click on settings in repository online, go to pages on the left and change branch to main (or github-pg)
 
 In about click on settings and click on use github pages website for the description, unclick again and add the presentation.html filename to the end of this path.
+
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+- Content authored with markdown
+- Output from executable code
 
 
 ## Code
